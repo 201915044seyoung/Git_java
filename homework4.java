@@ -6,7 +6,7 @@ public class main {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.print(" µÎ ¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä:");
+		System.out.print(" ÂµÃ Â¼Ã¶Â¸Â¦ Ã€Ã”Â·Ã‚Ã‡ÃÂ¼Â¼Â¿Ã¤:");
 		
 		int num1 = sc.nextInt();
 		int num2 = sc.nextInt();
